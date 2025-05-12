@@ -1,0 +1,65 @@
+[
+  {
+    "country": "United Arab Emirates",
+    "price": "6,500",
+    "visaCount": "53K",
+    "date": "on 13 May, 04:36 PM",
+    "image": "https://images.pexels.com/photos/1743367/pexels-photo-1743367.jpeg",
+    "category": "all",
+    "includesTruckIcon": true
+  },
+  {
+    "country": "Switzerland",
+    "price": "3,600",
+    "visaCount": "30K",
+    "date": "by 06 Jun, 12:00 AM",
+    "image": "https://images.pexels.com/photos/1438761/pexels-photo-1438761.jpeg",
+    "category": "month",
+    "stickerVisa": true
+  },
+  {
+    "country": "Singapore",
+    "price": "3,500",
+    "visaCount": "11K",
+    "date": "on 28 May, 10:08 PM",
+    "image": "https://images.pexels.com/photos/1842332/pexels-photo-1842332.jpeg",
+    "category": "week",
+    "includesTruckIcon": true
+  },
+  {
+    "country": "Belarus",
+    "statusText": "Visa issued on arrival",
+    "image": "https://media.atlys.com/b2c/clp/country-landing-page/tr:w-1200,h-800,q-60,f-avif/BY/fall/3",
+    "category": "instant"
+  },
+  {
+    "country": "Macao SAR China",
+    "statusText": "No Visa Required",
+    "image": "https://images.pexels.com/photos/1797161/pexels-photo-1797161.jpeg",
+    "category": "instant"
+  },
+  {
+    "country": "Botswana",
+    "statusText": "Coming soon",
+    "image": "https://images.pexels.com/photos/567973/pexels-photo-567973.jpeg",
+    "category": "instant"
+  },
+  {
+    "country": "South Korea",
+    "price": "4,850",
+    "visaCount": "15K",
+    "date": "on 05 Jun, 09:54 PM",
+    "image": "https://media.atlys.com/b2c/clp/country-landing-page/tr:w-1200,h-800,q-60,f-avif/KR/fall/4",
+    "category": "month",
+    "stickerVisa": true,
+    "includesTruckIcon": true
+  },
+  {
+    "country": "Thailand",
+    "price": "2,500",
+    "visaCount": "40K",
+    "date": "by 10 Jun, 11:00 PM",
+    "image": "https://images.pexels.com/photos/1658967/pexels-photo-1658967.jpeg",
+    "category": "week"
+  }
+]
